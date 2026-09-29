@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "recorded_at_utc": "2026-09-29T10:08:19+00:00",
+  "purpose": "Immutable initial Pelagion takeover source baseline",
+  "feature_branch": "feat/init-pelagion-takeover",
+  "upstream": {
+    "repository": {
+      "id": 888092115,
+      "node_id": "R_kgDONO810w",
+      "name": "markitdown",
+      "full_name": "microsoft/markitdown",
+      "html_url": "https://github.com/microsoft/markitdown",
+      "clone_url": "https://github.com/microsoft/markitdown.git",
+      "default_branch": "main",
+      "created_at": "2024-11-13T19:56:40Z",
+      "updated_at": "2026-09-29T09:26:05Z",
+      "pushed_at": "2026-09-21T21:03:34Z",
+      "fork": false,
+      "private": false,
+      "size": 4759
+    },
+    "branch": "main",
+    "commit": {
+      "sha": "b8f79c57ebc0044be41323d89b2a45d3fda8460e",
+      "tree_sha": "21ce294aeff5b4f57d1efcb2cd041ff22b8f9000",
+      "author_timestamp": "2026-09-21T14:02:08-07:00",
+      "committer_timestamp": "2026-09-21T14:02:08-07:00",
+      "subject": "Bump versions or markitdown and markitdown-ocr (#2545)",
+      "reachable_commit_count": 406,
+      "exact_tags": [
+        "v0.1.8"
+      ],
+      "describe": "v0.1.8",
+      "declared_versions": {}
+    }
+  },
+  "fork": {
+    "repository": {
+      "id": 1392468812,
+      "node_id": "R_kgDOUv9jTA",
+      "name": "markitdown",
+      "full_name": "HiradEmami/markitdown",
+      "html_url": "https://github.com/HiradEmami/markitdown",
+      "clone_url": "https://github.com/HiradEmami/markitdown.git",
+      "default_branch": "main",
+      "created_at": "2026-09-28T10:56:09Z",
+      "updated_at": "2026-09-28T10:56:09Z",
+      "pushed_at": "2026-09-21T21:03:34Z",
+      "fork": true,
+      "private": false,
+      "size": 4759
+    },
+    "branch": "main",
+    "commit": {
+      "sha": "b8f79c57ebc0044be41323d89b2a45d3fda8460e",
+      "tree_sha": "21ce294aeff5b4f57d1efcb2cd041ff22b8f9000",
+      "author_timestamp": "2026-09-21T14:02:08-07:00",
+      "committer_timestamp": "2026-09-21T14:02:08-07:00",
+      "subject": "Bump versions or markitdown and markitdown-ocr (#2545)",
+      "reachable_commit_count": 406,
+      "exact_tags": [
+        "v0.1.8"
+      ],
+      "describe": "v0.1.8",
+      "declared_versions": {}
+    },
+    "previous_remote_commit": "b8f79c57ebc0044be41323d89b2a45d3fda8460e"
+  },
+  "network_source": {
+    "id": 888092115,
+    "node_id": "R_kgDONO810w",
+    "name": "markitdown",
+    "full_name": "microsoft/markitdown",
+    "html_url": "https://github.com/microsoft/markitdown",
+    "clone_url": "https://github.com/microsoft/markitdown.git",
+    "default_branch": "main",
+    "created_at": "2024-11-13T19:56:40Z",
+    "updated_at": "2026-09-29T09:26:05Z",
+    "pushed_at": "2026-09-21T21:03:34Z",
+    "fork": false,
+    "private": false,
+    "size": 4759
+  },
+  "feature_base_commit": "b8f79c57ebc0044be41323d89b2a45d3fda8460e",
+  "source_observed_at_utc": "2026-09-29T10:02:50+00:00",
+  "historical_fork_creation_commit": null,
+  "notes": [
+    "The GitHub repository ID and node ID identify each repository, not a commit.",
+    "Reachable commit count is a history count, not a release number. Exact tags and declared package versions may be absent.",
+    "GitHub creation timestamps do not establish the original fork-creation commit.",
+    "This baseline does not update automatically after later merges. Git history preserves subsequent edits.",
+    "The feature commit containing this file is recorded in Git history; it cannot contain its own hash."
+  ]
+}
